@@ -7,23 +7,6 @@
 </div>
 
 ---
-
-## Tabla de contenido
-
-- [Información académica](#información-académica)
-- [Descripción](#descripción)
-- [Integrantes](#integrantes)
-- [Estructura del proyecto](#estructura-del-proyecto)
-- [Requisitos](#requisitos)
-- [Cómo ejecutar los ejercicios](#cómo-ejecutar-los-ejercicios)
-- [Ejercicios de JavaScript](#ejercicios-de-javascript)
-- [Ejercicios de TypeScript](#ejercicios-de-typescript)
-- [Ejemplos de salida](#ejemplos-de-salida)
-- [Nota sobre el ejercicio 8 de JavaScript](#nota-sobre-el-ejercicio-8-de-javascript)
-- [Licencia](#licencia)
-
----
-
 ## Información académica
 
 | | |
